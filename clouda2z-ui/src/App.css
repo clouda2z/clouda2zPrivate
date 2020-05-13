@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.cloudA2Z-header{
+  font-weight: bold;
+  border-bottom: 1px solid;
+  padding: 0.4rem;
+}
